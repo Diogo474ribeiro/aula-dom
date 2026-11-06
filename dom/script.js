@@ -29,7 +29,7 @@
 
 
 // const itens = document.querySelectorAll(".item");
-// console;log(itens);
+// console.log(itens);
 
 // for (let i = 0; i < itens.length; i++) {
 //     console.log("item" + (i + 1) + ": " + itens[i].textcontent);
